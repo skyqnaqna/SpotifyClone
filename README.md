@@ -8,6 +8,8 @@ I've built the project by myself to learn more about iOS development, and to con
 
 I hope you enjoy the app. Feel free to hit me up! <br>
 
+**The architecture of this project is really bad and I'll be refactoring of it soon.**
+
 *-Gabriel*
 
 <br>
